@@ -1,0 +1,12 @@
+#tt {position:absolute; display:block;z-index:1500;}
+#tttop {display:block; height:5px; margin-left:5px;}
+#ttcont {display:block; padding:2px 12px 3px 7px; margin-left:5px; background:#666; color:white}
+#ttbot {display:block; height:5px; margin-left:5px;}
+span.glossaryLink, a.glossaryLink {text-decoration:none; border-bottom: dotted 1px;}
+h4.glossary_related_title {margin-bottom:0px;}
+ul.glossary_related {margin-top:0;}
+.mobile-link{margin: 10px; font-size: 14pt}
+.mobile-link:before{content: "Link: "}
+.glossary_synonyms{margin-bottom: 1em; font-style: italic}
+
+.cm-showhide-handle{ cursor: pointer;}
